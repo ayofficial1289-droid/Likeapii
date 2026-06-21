@@ -1,0 +1,9 @@
+# Ignore all JSON files to protect sensitive tokens
+*.json
+
+# Ignore __pycache__ folders (optional but recommended)
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
